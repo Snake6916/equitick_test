@@ -1,0 +1,88 @@
+{
+  "isChanged": true,
+  "countryHash": 0,
+  "languageHash": 0,
+  "currenciesHash": 0,
+  "retCodeMessagesHash": 0,
+  "countries": [
+    {
+      "id": 1,
+      "currencyId": 1,
+      "name": "Lebanon",
+      "code": "lb",
+      "num_code": 1,
+      "phone_code": 961,
+      "timezone_code": "0"
+    },
+    {
+      "id": 4,
+      "currencyId": 1,
+      "name": "Cyprus",
+      "code": "cy",
+      "num_code": 1,
+      "phone_code": 357,
+      "timezone_code": "0"
+    }
+  ],
+  "languages": [
+    {
+      "id": 2,
+      "code": "Eng",
+      "language_name": "English",
+      "ascii_name": "English",
+      "status": 1
+    }
+  ],
+  "currencies": [
+    {
+      "id": 1,
+      "name": "EUR",
+      "code": "ER",
+      "status": 1,
+      "countries": null
+    },
+    {
+      "id": 2,
+      "name": "USD",
+      "code": "USD",
+      "status": 1,
+      "countries": null
+    },
+    {
+      "id": 4,
+      "name": "LBP",
+      "code": "LBP",
+      "status": 1,
+      "countries": null
+    },
+    {
+      "id": 5,
+      "name": "JPY",
+      "code": "JPY",
+      "status": 1,
+      "countries": null
+    },
+    {
+      "id": 6,
+      "name": "GBP",
+      "code": "GBP",
+      "status": 1,
+      "countries": null
+    },
+    {
+      "id": 7,
+      "name": "CAD",
+      "code": "CAD",
+      "status": 1,
+      "countries": null
+    }
+  ],
+  "retCodeMessages": {
+    "SUCCESSFULLY_REGISTERED": "User successfully registered check your email to confirm",
+    "USER_ALREADY_EXISTS": "User already exists",
+    "NOT_CONFIRMED": "User not confirmed",
+    "INVALID_USER": "Username or Password is incorrect",
+    "VALID_USER": "User is logged in",
+    "SUCCESSFULLY_RESET": "Check your email to reset password"
+  }
+}
